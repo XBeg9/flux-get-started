@@ -1,0 +1,1 @@
+{"jobID":"7b6ddbce-5745-5ecf-55f7-4a0075d55da7","spec":{"type":"policy","cause":{"Message":"","User":"Fedya Skitsko \u003cfedya@skitsko.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
